@@ -1,1 +1,1 @@
-Just started doing CTF
+Trying to do CTF
